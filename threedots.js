@@ -32,3 +32,5 @@ const sochib= 855;
 const takaPoisha=[businessman,minister,sochib];
 const maxAmongThem=Math.max(...takaPoisha);
 console.log(maxAmongThem);
+
+//... is known as spread operator

@@ -10,7 +10,7 @@ console.log(add(5,10));
 const print = () => "kono parameter nai";
 console.log(print());
 
-//arrow function with bigger function body
+//arrow function with bigger function
 const addAndMultiplyThem = (num1,num2) =>{
     let add=num1+num2;
     let mult=num1*num2;
